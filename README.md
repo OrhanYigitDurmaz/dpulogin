@@ -1,5 +1,7 @@
 # dpulogin
 Automatic Login For DPU Network for server deployments
+## STILL IN DEVELOPMENT. DONT USE.
+
 
 # Usage:
 
