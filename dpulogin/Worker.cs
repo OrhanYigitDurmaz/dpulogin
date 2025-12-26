@@ -1,8 +1,8 @@
 using Microsoft.Extensions.Logging;
 using System.Net;
 using System.Net.Http.Headers;
-using System.Net.NetworkInformation; // Add this for Ping
-using System.Net.Sockets;            // For SocketError
+using System.Net.NetworkInformation;
+using System.Net.Sockets;
 
 namespace dpulogin
 {
